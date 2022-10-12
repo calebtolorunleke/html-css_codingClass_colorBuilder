@@ -1,0 +1,56 @@
+#body_color{
+    height: 40rem;
+    width: 100%;
+    background-color: rgb(173, 44, 70);
+    padding-top: 10rem;
+}
+#color_part{
+    height: 30rem;
+    width: 30rem;
+    border: 2px dashed rgb(52, 220, 239);
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+}
+#designed_by{
+    float: right;
+    margin-top: 33rem;
+    margin-right: 1rem;
+    font-size: 2rem;
+    color: rgb(80, 155, 144);
+}
+#red{
+    height: 95%;
+    width: 20%;    
+    background-color: red;
+    margin-bottom: 30rem;
+    color: blue;
+}
+#blue{
+    height: 95%;
+    width: 20%;    
+    background-color: rgb(48, 10, 216);
+    margin: -58.5rem 0 0 6rem;
+    color: red;
+}
+#green{
+    height: 95%;
+    width: 20%;    
+    background-color: rgb(5, 46, 17);
+    margin: -28.5rem 0 0 12rem;
+    color: blueviolet;
+}
+#white{
+    height: 95%;
+    width: 20%;    
+    background-color: rgb(241, 247, 242);
+    margin: -28.5rem 0 0 18rem;
+    color: black;
+}
+#yellow{
+    height: 95%;
+    width: 20%;    
+    background-color: rgb(234, 224, 46);
+    margin: -28.5rem 0 0 24rem;
+    color: rgb(7, 159, 66);
+}
